@@ -1,3 +1,7 @@
+'''
+L.S. Well done! Also try to do 7, 8 and 9. 
+'''
+
 SELECT * FROM appleStore.data;
 
 1. SELECT DISTINCT prime_genre FROM appleStore.data;

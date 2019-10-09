@@ -1,3 +1,7 @@
+'''
+L.S. Looks good!
+'''
+
 USE lab_mysql;
 
 CREATE TABLE Car (
